@@ -30,6 +30,6 @@ vim-jp Slack コミュニティの行動規範
 
 * 言動には結果が伴うことを理解してください。容認できない行動は許されません。
 * 本行動規範に違反する行為があった場合、またはそれを目撃した場合は、管理者に連絡してください。管理者のリストは !admin で確認できます。
-* 違反があった場合、管理者はその違反に対して、退会を含む適切と思われる措置をとります。
+* 違反があった場合、管理者はその違反に対して、当該メッセージの削除、退会、チャネルの削除などを含む適切と思われるあらゆる措置をとります。
 
 Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html), [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) and [Slack Developer Community Code of Conduct](https://api.slack.com/community/code-of-conduct) under a Creative Commons [Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) license.
