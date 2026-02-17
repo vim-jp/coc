@@ -27,6 +27,7 @@ vim-jp Slack コミュニティの行動規範
 * 暴力、脅し、または暴力的な言葉。
 * 機械的な連続投稿や不要な大量のチャネル作成などspamまたは迷惑行為に類するもの。
 * 第三者の機密情報の開示や名誉棄損、不同意での個人情報の開示などの不適切とみなされる投稿。
+* 違法情報・有害情報([参考](https://www.npa.go.jp/bureau/cyber/countermeasures/illegal-info.html))に該当または類する投稿。
 
 # 執行
 
@@ -34,4 +35,18 @@ vim-jp Slack コミュニティの行動規範
 * 本行動規範に違反する行為があった場合、またはそれを目撃した場合は、管理者に連絡してください。管理者のリストは !admin で確認できます。
 * 違反があった場合、管理者はその違反に対して、当該メッセージの削除、退会、チャネルの削除などを含む適切と思われるあらゆる措置をとります。
 
+## 運営による対応
+
+管理者は、本規範の趣旨に反すると判断される言動や投稿(テキスト、画像、リンク等)を確認した場合、予告なく以下の措置を講じることがあります。
+
+1.  該当する投稿の削除または修正の要請
+2.  運営チームによる投稿の直接削除
+3.  違反者に対する警告、およびコミュニティへの参加停止(Ban)
+
+運営チームは、これらの措置を講じる権利を保持し、その判断基準や個別の経緯について公開する義務を負わないものとします。
+
+---
+
 Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html), [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) and [Slack Developer Community Code of Conduct](https://api.slack.com/community/code-of-conduct) under a Creative Commons [Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) license.
+
+本CoCへの修正提案は <https://github.com/vim-jp/coc> にお願いします。
