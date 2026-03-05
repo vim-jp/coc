@@ -36,3 +36,5 @@ vim-jp Slack コミュニティの行動規範
 * 違反があった場合、管理者はその違反に対して、当該メッセージの削除、退会、チャネルの削除などを含む適切と思われるあらゆる措置をとります。
 
 Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html), [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) and [Slack Developer Community Code of Conduct](https://api.slack.com/community/code-of-conduct) under a Creative Commons [Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) license.
+
+本CoCへの修正提案は <https://github.com/vim-jp/coc> にお願いします。
